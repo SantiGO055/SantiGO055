@@ -44,11 +44,11 @@
   
   <h2>Aplicacion de sala de chat</h2>
   <h4 align="left">La aplicacion contiene dos salas de chat de todos con todos al estilo grupo de whatsapp</h4>
- <img src="https://user-images.githubusercontent.com/40776497/123311064-19d2ec80-d4fd-11eb-9c6d-4819df3d1f51.GIF">
+ <img width="200" height="auto" src="https://user-images.githubusercontent.com/40776497/123311064-19d2ec80-d4fd-11eb-9c6d-4819df3d1f51.GIF">
   
    <h2>Aplicacion de tabla didactiva para niños</h2>
   <h4 align="left">La aplicacion es una tabla didactica de idiomas para niños, cuando se presiona cada boton emite sonido de acuerdo a la figura y el idioma seleccionado</h4>
- <img src="https://user-images.githubusercontent.com/40776497/123312701-12acde00-d4ff-11eb-9b63-ae4dccc42a57.GIF">
+ <img width="200" height="auto" src="https://user-images.githubusercontent.com/40776497/123312701-12acde00-d4ff-11eb-9b63-ae4dccc42a57.GIF">
 
 </div>
 
