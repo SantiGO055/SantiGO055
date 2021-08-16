@@ -3,7 +3,7 @@
 ## Hola 👋
 ###  Mi nombre es Santiago Gonzalez
   <p align="center">
-  <strong>Desarrollador web fullstack</strong>.
+  <strong>Desarrollador fullstack</strong>.
 </p>
   <img align="center" src="https://user-images.githubusercontent.com/40776497/123296187-d1133780-d4ec-11eb-83fd-f17d868bdf52.jpg">
 
