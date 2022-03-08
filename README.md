@@ -1,9 +1,9 @@
 <div align="center">
   
-## Hola 👋
-###  Mi nombre es Santiago Gonzalez
+## Hello world! 👋
+###  I'm Santiago Gonzalez
   <p align="center">
-  <strong>Desarrollador fullstack</strong>.
+  <strong>Fullstack developer</strong>.
 </p>
   <img align="center" src="https://user-images.githubusercontent.com/40776497/123296187-d1133780-d4ec-11eb-83fd-f17d868bdf52.jpg">
 
@@ -11,16 +11,16 @@
 
 </div>
 <!--
-  <h2>Algunos proyectos que realice 🔭</h2>
- <a href="https://tp-labo4-sala-de-juegos.herokuapp.com"><p>Sala de juegos online </p></a>
- <a href="https://clinicaonlinelabo4.herokuapp.com/"><p>Clinica online </p></a>
+  <h2>Some projects I've done 🔭</h2>
+ <a href="https://tp-labo4-sala-de-juegos.herokuapp.com"><p>Online game room </p></a>
+ <a href="https://clinicaonlinelabo4.herokuapp.com/"><p>Online clinic </p></a>
   
-  <h3>Aplicacion de sala de chat</h3>
-  <h4 align="left">La aplicacion contiene dos salas de chat de todos con todos al estilo grupo de whatsapp</h4>
+  <h3>Chatroom app</h3>
+  <h4 align="left">The application contains two chat rooms for everyone with everyone in the whatsapp group style</h4>
  <img width="200" height="auto" src="https://user-images.githubusercontent.com/40776497/123311064-19d2ec80-d4fd-11eb-9c6d-4819df3d1f51.GIF">
   
-   <h3>Aplicacion de tabla didáctica para niños</h3>
-  <h4 align="left">La aplicación es una tabla didáctica de idiomas para niños, cuando se presiona cada boton emite sonido de acuerdo a la figura y el idioma seleccionado</h4>
+   <h3>Didactic table application for children</h3>
+  <h4 align="left">The application is a didactic table of languages for children, when each button is pressed, it emits a sound according to the figure and the selected language</h4>
  <img width="200" height="auto" src="https://user-images.githubusercontent.com/40776497/123312701-12acde00-d4ff-11eb-9b63-ae4dccc42a57.GIF">
 
 </div>
@@ -32,7 +32,7 @@
   
   <strong>Backend:</strong>
   <br>
-  C, PHP, C# .NET, NodeJS conectando a base de datos SQL Server y MySQL 
+  C, PHP, C# .NET, NodeJS connecting to SQL Server and MySQL 
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/>
@@ -43,7 +43,7 @@
 
 <strong>Frontend:</strong>
   <br>
-  HTML, CSS incluyendo Bootstrap 5, Javascript ( Vanilla, Angular ) y Typescript.
+  HTML, CSS with Bootstrap 5, Javascript ( Vanilla, Angular ) and Typescript.
   <p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
@@ -58,7 +58,7 @@
 
 
   <h2></h2>
-<h3>📫 Contacto 📫</h3>
+<h3>📫 Contact 📫</h3>
 
  <a href="https://www.linkedin.com/in/santiago-gonzalez-953997b0/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/></a>
  <a href="mailto:santigonzalez05@gmail.com"><img src="https://user-images.githubusercontent.com/40776497/123286166-10895600-d4e4-11eb-920c-7c8e24c64c13.png" width="40px" height="40px"/></a>
