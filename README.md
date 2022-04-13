@@ -60,7 +60,7 @@
   <h2></h2>
 <h3>📫 Contact 📫</h3>
 
- <a href="https://www.linkedin.com/in/santiago-gonzalez-953997b0/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/santiago-gonzalez-953997b0/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/></a>
  <a href="mailto:santigonzalez05@gmail.com"><img src="https://user-images.githubusercontent.com/40776497/123286166-10895600-d4e4-11eb-920c-7c8e24c64c13.png" width="40px" height="40px"/></a>
 
 <!--
